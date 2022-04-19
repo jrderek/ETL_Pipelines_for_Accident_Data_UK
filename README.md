@@ -2,6 +2,7 @@
 
 
 - Step 1: Scope the Project and Gather Data
+- 
 This is a project that entails building an end-to-end ETL (Extract-Transform-Load) Data pipeline which extracts UK accident and traffic data from Amazon S3, clean and transform with Pyspark, transfer it back to S3 and finally load to Amazon Redshift (Distributed Database), from where the data can be queried for ad-hoc analyses.
 
 The end goal of this project is to provide ready-made tables that are waiting to be queried for road transport and traffic statistical analyses.
